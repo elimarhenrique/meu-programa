@@ -1,5 +1,6 @@
 #!/bin/bash
 
 A=1
-echo "Hello Wolrld"
+B=2
+echo "Hello Wolrld!"
 
