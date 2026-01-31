@@ -3,6 +3,7 @@
 A=10
 B=2
 C=3
+M=10
 
 echo "Hello World!"
 
